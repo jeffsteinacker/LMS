@@ -1,0 +1,12 @@
+name = Login History
+description = A history of the site's user logins.
+core = 7.x
+configure = admin/reports/login-history
+
+
+; Information added by drush on 2016-01-13
+version = "7.x-1.0-beta3+0-dev"
+core = "7.x"
+project = "login_history"
+datestamp = "1452694199"
+
